@@ -1,0 +1,8 @@
+name: DeathPrice
+main: me.zackpollard.DeathPrice.DeathPrice
+version: "1.0"
+commands:
+    deathprice:
+        description: Reloads the DeathPrice configuration
+        usage: /deathprice reload
+depend: [Vault]
